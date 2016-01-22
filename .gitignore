@@ -2,3 +2,4 @@
 .idea/
 concept_insight_credentials.json
 token.json
+.DS_Store
